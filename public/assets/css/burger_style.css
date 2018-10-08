@@ -1,8 +1,5 @@
 body {
-    width: 75%;
-   margin: 0 auto; 
-   display: flex;
-   min-height: 100vh;
+    text-align: center;
    flex-direction: column;
    background-color: #FFC04C;
 }
@@ -16,12 +13,12 @@ h1 {
     text-align: center;
     font-family: 'PT Sans', sans-serif;
     font-size: 50px;
-    margin: 55px;
+    margin: 25px;
 }
 
 h2 {
     text-align: center;
     font-family: 'PT Sans', sans-serif;
     font-size: 15px;
-    margin: 55px;
+    margin: 25px;
 }
